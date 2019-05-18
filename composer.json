@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "revelare/qr-code": "^2.1"
+        "revelare/qr-code": "dev-master"
     },
     "autoload": {
         "psr-4": {
