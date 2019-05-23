@@ -1,3 +1,5 @@
+# This package has been discontinued by the owner and this is a backup for internal use.
+
 # Laravel QR Code Generator
 
  Create QR Codes with Laravel
